@@ -27,5 +27,5 @@ I'm a software engineer primarily working on full stack platforms. I'm most comf
 
 | Project | Description | 
 |---------|-------------|
-|[Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main/elm)| Added the Go version of The Gilded Rose code challenge |
+|[Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main/elm)| Added the Elm version of The Gilded Rose code challenge |
 
