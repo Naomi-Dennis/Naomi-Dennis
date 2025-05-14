@@ -15,3 +15,17 @@ Here are some ideas to get you started:
 -->
 
 I'm a software engineer primarily working on full stack platforms. I'm most comfortable with static languages like Java, Exlixir and C#, but I dabble in dynamic languages too such as JS/TS and Ruby. 
+
+### Neat Things I've Made
+
+| Project | Description | 
+|---------|-------------|
+|[An Arduous Journey](https://github.com/Naomi-Dennis/An-Arduous-Journey-Beta)| A 2D strategic turn based flash game |
+
+
+### Open Source Project Contributions
+
+| Project | Description | 
+|---------|-------------|
+|[Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main/elm)| Added the Go version of The Gilded Rose code challenge |
+
