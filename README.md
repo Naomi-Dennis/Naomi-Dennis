@@ -21,7 +21,7 @@ I'm a software engineer primarily working on full stack platforms. I'm most comf
 | Project | Description | 
 |---------|-------------|
 |[An Arduous Journey](https://github.com/Naomi-Dennis/An-Arduous-Journey-Beta)| A 2D strategic turn based flash game in ActionScript |
-|[HTTP Server](https://github.com/Naomi-Dennis/http_server_spec)| An HTTP server built with Java|
+|[HTTP Server]([https://github.com/Naomi-Dennis/http_server_spec](https://github.com/Naomi-Dennis/apprentice-echo-server))| An HTTP server built with Java|
 
 
 ### Open Source Project Contributions
